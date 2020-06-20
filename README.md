@@ -1,6 +1,3 @@
-# wikipedia-get-data
-Get data from Wikipedia via Wikipedia API
-
 # Wikipedia API docs
 
 Wikipedia API examples. For advanced use see [Official Mediawiki API documentation](https://www.mediawiki.org/wiki/API:Main_page)
